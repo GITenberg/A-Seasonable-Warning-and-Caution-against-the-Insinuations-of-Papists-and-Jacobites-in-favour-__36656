@@ -1,0 +1,35 @@
+_repo: A-Seasonable-Warning-and-Caution-against-the-Insinuations-of-Papists-and-Jacobites-in-favour-__36656
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Defoe, Daniel
+    aliases:
+    - John, Gabriel
+    - Moreton, Andrew
+    - Defo, Daniel
+    deathdate: 1731
+    gutenberg_agent_id: '204'
+    url: http://www.gutenberg.org/2009/agents/204
+    wikipedia:
+    - http://www.gutenberg.org/browse/authors/j#a26500
+    - http://en.wikipedia.org/wiki/Daniel_Defoe
+description: ''
+gutenberg_issued: '2011-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36656'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'James, Prince of Wales, 1688-1766 -- Early works to 1800'
+title: 'A Seasonable Warning and Caution against the Insinuations of Papists and Jacobites
+  in favour of the Pretender
+
+  Being a Letter from an Englishman at the Court of Hanover'
+url: http://www.gutenberg.org/ebooks/36656
