@@ -17,6 +17,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/j#a26500
     - http://en.wikipedia.org/wiki/Daniel_Defoe
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36656#A-Seasonable-Warning-and-Caution-against-the-Insinuations-of-Papists-and-Jacobites-in-favour-_
 gutenberg_issued: '2011-07-08'
 gutenberg_type: Text
 identifiers:
